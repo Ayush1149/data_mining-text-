@@ -1,0 +1,2 @@
+Overview
+This project involves using Beautiful Soup, a Python library, to mine data from web pages. The goal is to extract valuable information, clean it, and prepare it for analysis. This repository includes scripts for data extraction, cleaning, and analysis, along with examples demonstrating their usage. Whether you're looking to scrape data from websites or analyze the extracted data, this project provides a solid foundation to get you started. Contributions are welcome to enhance and expand the project further.
